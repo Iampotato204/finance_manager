@@ -5,6 +5,6 @@ Upd: Added minimal version, same functionality, removed unnecessary comments, 7.
 # build:
 g++ -o index.cgi [index.cpp, index_minimal.cpp] -lcgicc -lsqlite3
 
-Demonstration video:
-https://github.com/user-attachments/assets/13394b0a-ebc3-4b81-ab4d-c790f7edb9ad
+Demonstration video: <br>
+<video src="https://github.com/user-attachments/assets/13394b0a-ebc3-4b81-ab4d-c790f7edb9ad"></video>
 
