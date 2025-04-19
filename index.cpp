@@ -202,7 +202,7 @@ int main(){
         for(int i=0; i<book_ids.size(); i++){
             printf (table_begin_template,
                 book_names[i].text,
-                b-0.4ook_ids.at(i),
+                book_ids.at(i),
                 book_ids.at(i),
                 book_ids.at(i));
 //            printf("%d<br>",book_ids.at(tablenum));
